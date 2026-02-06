@@ -6,7 +6,7 @@ I’m particularly interested in applied AI, generative models, and data-driven 
 # 🌐 Contact me via:
 
 <a href="mailto:eya.dridi@supcom.tn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-original.svg" width="40" alt="Email" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" width="40" alt="Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/dridieya/">
@@ -58,7 +58,7 @@ I’m particularly interested in applied AI, generative models, and data-driven 
 <p>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" alt="Power BI" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="40" alt="Power BI" />
 </p>
 
 #### **DevOps & Messaging**
