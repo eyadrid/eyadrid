@@ -6,7 +6,7 @@ I’m particularly interested in applied AI, generative models, and data-driven 
 # 🌐 Contact me via:
 
 <a href="mailto:eya.dridi@supcom.tn">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" width="40" height="40" alt="Outlook Email" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-original.svg" width="40" alt="Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/dridieya/">
