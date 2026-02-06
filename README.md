@@ -58,7 +58,7 @@ I’m particularly interested in applied AI, generative models, and data-driven 
 <p>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Power_BI_Logo.svg" width="40" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" alt="Power BI" />
 </p>
 
 #### **DevOps & Messaging**
