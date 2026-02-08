@@ -81,5 +81,3 @@ I’m particularly interested in applied AI, generative models, and data-driven 
 ## 📊 GitHub Stats
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=eyadrid)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyadrid&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyadrid&layout=compact)
